@@ -2,7 +2,7 @@
 
 ## Conheça nosso time:
 
-👨‍💻 **Nome**
+### 👨‍💻 **Nome**
 > Cargo
 
 📚 Skills: 
