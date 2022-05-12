@@ -11,3 +11,14 @@ HTML
 CSS
 JavaScript
 ```
+##
+
+### 👨‍💻 **Nome**
+> Cargo
+
+📚 Skills: 
+```
+HTML
+CSS
+JavaScript
+```
