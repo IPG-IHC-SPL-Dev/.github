@@ -2,3 +2,12 @@
 
 ## Conheça nosso time:
 
+👨‍💻 **Nome**
+> Cargo
+
+📚 Skills: 
+```
+HTML
+CSS
+JavaScript
+```
