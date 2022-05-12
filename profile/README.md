@@ -1,4 +1,4 @@
 # McCann Health Brasil
 
-## Em breve novidades 👋
+## Conheça nosso time:
 
